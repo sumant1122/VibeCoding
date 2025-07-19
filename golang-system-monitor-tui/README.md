@@ -31,7 +31,7 @@ git clone https://github.com/your-username/golang-system-monitor-tui.git
 cd golang-system-monitor-tui
 
 # Build the application
-go build -o system-monitor .
+go build 
 
 # Run the application
 ./system-monitor
